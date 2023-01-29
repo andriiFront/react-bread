@@ -1,0 +1,9 @@
+.hero {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+  width: 540px;
+  
+}

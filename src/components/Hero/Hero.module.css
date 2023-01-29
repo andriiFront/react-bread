@@ -1,0 +1,22 @@
+.hero {
+  padding: 50px 17px;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  width: 130px;
+}
+
+.header {
+  margin-top: 20px;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+
+.text {
+  margin-top: 30px;
+  text-align: center;
+}
