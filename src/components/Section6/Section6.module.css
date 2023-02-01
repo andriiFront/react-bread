@@ -1,0 +1,15 @@
+.section {
+  background-color: rgb(135, 147, 165);
+}
+
+.container {
+  display: grid;
+  width: 1140px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  grid-template-columns: repeat(4, calc(25% - 22.5px));
+  min-height: 334px;
+  grid-gap: 30px;
+  text-align: center;
+}

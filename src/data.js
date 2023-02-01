@@ -91,4 +91,26 @@ export const data = {
       "text": "Naturally leavened bread made using the Sourdough Rye dough and studded with dried black currants",
     }
   ],
+  "cardsQuotes": [
+    {
+      "id": "0",
+      "title": "Celia Almeda",
+      "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.&nbsp;",
+    },
+    {
+      "id": "1",
+      "title": "Frank Kinney",
+      "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.&nbsp;",
+    },
+    {
+      "id": "2",
+      "title": "Sam Perry",
+      "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.&nbsp;",
+    },
+    {
+      "id": "3",
+      "title": "Marry Hudson",
+      "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.&nbsp;",
+    }
+  ]
 }
