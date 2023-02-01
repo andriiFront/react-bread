@@ -1,0 +1,12 @@
+.section {
+  background-color: lightgreen;
+}
+
+.container {
+  display: grid;
+  width: 1140px;
+  grid-template-columns: repeat(4, calc(25% - 18.75px));
+  min-height: 445px;
+  grid-gap: 25px;
+  margin: 93px auto 0;
+}
