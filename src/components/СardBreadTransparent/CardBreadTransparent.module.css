@@ -1,0 +1,28 @@
+.card {
+  height: 100%;
+  opacity: 0.6;
+  border-radius: 20px;
+  padding: 20px 30px;
+  max-width: 100%;
+  text-align: left;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.header {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 0;
+  color: #eeb16d;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-family: Montserrat,sans-serif;
+  text-align: left;
+}
+
+.text {
+  font-style: italic;
+  margin: 20px 0 0;
+  text-align: left;
+}

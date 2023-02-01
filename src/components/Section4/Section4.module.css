@@ -5,8 +5,10 @@
 .container {
   display: grid;
   width: 1140px;
-  grid-template-columns: repeat(4, calc(25% - 18.75px));
-  min-height: 445px;
-  grid-gap: 25px;
-  margin: 93px auto 0;
+  flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+    min-height: 506px;
+    grid-gap: 20px;
 }

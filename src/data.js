@@ -43,5 +43,52 @@ export const data = {
       "text": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
       "linkUrl": "#"
     }
-  ]
+  ],
+  "cardsBreadTransparent": [
+    {
+      "id": "0",
+      "title": "Glassic Baguette",
+      "text": "Unbleached organic wheat flour, whole rye flour, water, sea salt, yeast",
+    },
+    {
+      "id": "1",
+      "title": "Baguette",
+      "text": "Naturally leavened baguette made using the Five Points Levain dough.  This baguette is crustier and chewier than the Classic Baguette",
+    },
+    {
+      "id": "2",
+      "title": "Pekan Raisin",
+      "text": "Naturally leavened bread made using the French Country dough with the additions of local Georgia pecans and Thompson raisins",
+    },
+    {
+      "id": "3",
+      "title": "Everyday french",
+      "text": "Everyday table loaf made using the Classic Baguette dough",
+    },
+    {
+      "id": "4",
+      "title": "Multigrain",
+      "text": "Naturally leavened bread made using the French Country dough with the additions of millet, quinoa, rolled oats, flax seeds, and sunflower seeds",
+    },
+    {
+      "id": "5",
+      "title": "Danish Rye",
+      "text": "Whole rye flour, cracked rye berries, water, natural leaven culture made with rye flour, pumpkin seeds, sunflower seeds, barley malt syrup, sea salt",
+    },
+    {
+      "id": "6",
+      "title": "Levain",
+      "text": "Unbleached organic wheat flour, whole rye flour, water, natural leaven culture, sea salt",
+    },
+    {
+      "id": "7",
+      "title": "Ciabatta",
+      "text": "Unbleached organic wheat flour, whole rye flour, water, natural leaven culture, sea salt, yeast",
+    },
+    {
+      "id": "8",
+      "title": "Handmade Bread",
+      "text": "Naturally leavened bread made using the Sourdough Rye dough and studded with dried black currants",
+    }
+  ],
 }

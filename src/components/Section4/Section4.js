@@ -1,8 +1,8 @@
 import styles from './Section4.module.css';
 import { data } from '../../data'
-import { CardBreadTransparent } from '../CardBreadTransparent/CardBreadTransparent'
+import { CardBreadTransparent } from '../СardBreadTransparent/CardBreadTransparent'
 
-export function Section2() {
+export function Section4() {
   return (
     <section className={styles.section}>
       <div className={styles.container}>
