@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-bread/static/css/main.3f838899.css",
-    "main.js": "/react-bread/static/js/main.3928fd45.js",
+    "main.css": "/react-bread/static/css/main.2a20fb26.css",
+    "main.js": "/react-bread/static/js/main.42a8646c.js",
     "index.html": "/react-bread/index.html",
-    "main.3f838899.css.map": "/react-bread/static/css/main.3f838899.css.map",
-    "main.3928fd45.js.map": "/react-bread/static/js/main.3928fd45.js.map"
+    "main.2a20fb26.css.map": "/react-bread/static/css/main.2a20fb26.css.map",
+    "main.42a8646c.js.map": "/react-bread/static/js/main.42a8646c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f838899.css",
-    "static/js/main.3928fd45.js"
+    "static/css/main.2a20fb26.css",
+    "static/js/main.42a8646c.js"
   ]
 }
